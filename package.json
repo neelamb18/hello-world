@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "0.2.5",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "4.4.4"
+  },
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neelamb18/hello-world"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ]
+}
